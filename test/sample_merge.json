@@ -1,0 +1,4 @@
+{
+	"pullrequest": { "source" : "sampletag" },
+	"repository": {"owner": "iconnor", "name": "remotetag" }
+}
